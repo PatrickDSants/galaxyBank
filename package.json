@@ -1,16 +1,14 @@
 {
   "name": "galaxybank",
   "version": "1.0.0",
-  "homepage": "https://PatrickDSants.github.io/galaxyBank",
-
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-},
-
+  "homepage": "https://patrickdsants.github.io/galaxyBank",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
